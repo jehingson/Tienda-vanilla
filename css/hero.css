@@ -1,0 +1,7 @@
+header .hero-img{
+    position: absolute;
+    bottom: -10%;
+    right: -5%;
+    height: 90vh;
+    object-fit: contain;
+}
